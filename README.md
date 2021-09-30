@@ -1,2 +1,2 @@
-# wiki
-wiki zone to share some REX by file
+# Wiki Share Zone
+Space to share some REX by wiki file
